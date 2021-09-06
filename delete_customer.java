@@ -90,3 +90,6 @@ public class delete_customer extends JFrame implements ActionListener
 
 
 }
+
+
+//this is a comment
